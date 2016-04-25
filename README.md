@@ -1,3 +1,4 @@
 # hello-world
 Hello World starter
-Making changes because the tuturial told me to. :)
+I'm Sonam Agrawal trying to get started on github.
+
